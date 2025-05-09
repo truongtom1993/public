@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab43bc6d.chunk.css",
-    "main.js": "/static/js/main.7f01f8d6.chunk.js",
-    "main.js.map": "/static/js/main.7f01f8d6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d857fd7e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d857fd7e.js.map",
-    "static/js/2.398eb54c.chunk.js": "/static/js/2.398eb54c.chunk.js",
-    "static/js/2.398eb54c.chunk.js.map": "/static/js/2.398eb54c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.ab43bc6d.chunk.css.map": "/static/css/main.ab43bc6d.chunk.css.map",
-    "static/js/2.398eb54c.chunk.js.LICENSE.txt": "/static/js/2.398eb54c.chunk.js.LICENSE.txt",
-    "static/media/Họ Yêu Ai Mất Rồi (Orinn Remix) - Doãn Hiếu  Nhạc Trẻ Edm Hot Tik Tok Gây Nghiện Hay Nhất 2021.a5f2eb47.mp3": "/static/media/Họ Yêu Ai Mất Rồi (Orinn Remix) - Doãn Hiếu  Nhạc Trẻ Edm Hot Tik Tok Gây Nghiện Hay Nhất 2021.a5f2eb47.mp3",
-    "static/media/If I Had You.8df58c68.m4a": "/static/media/If I Had You.8df58c68.m4a",
-    "static/media/Lady Gaga - Bad Romance (Official Music Video).28eef62f.mp3": "/static/media/Lady Gaga - Bad Romance (Official Music Video).28eef62f.mp3",
-    "static/media/Pitbull - Feel This Moment ft. Christina Aguilera.29a8c476.mp3": "/static/media/Pitbull - Feel This Moment ft. Christina Aguilera.29a8c476.mp3",
-    "static/media/Star Sky.c89ea624.mp3": "/static/media/Star Sky.c89ea624.mp3",
-    "static/media/[Vietsub] Criminal - Britney Spears.7f484c97.mp3": "/static/media/[Vietsub] Criminal - Britney Spears.7f484c97.mp3"
+    "main.css": "/public/static/css/main.ab43bc6d.chunk.css",
+    "main.js": "/public/static/js/main.01f35f1f.chunk.js",
+    "main.js.map": "/public/static/js/main.01f35f1f.chunk.js.map",
+    "runtime-main.js": "/public/static/js/runtime-main.20b4965a.js",
+    "runtime-main.js.map": "/public/static/js/runtime-main.20b4965a.js.map",
+    "static/js/2.1ea04e1f.chunk.js": "/public/static/js/2.1ea04e1f.chunk.js",
+    "static/js/2.1ea04e1f.chunk.js.map": "/public/static/js/2.1ea04e1f.chunk.js.map",
+    "index.html": "/public/index.html",
+    "static/css/main.ab43bc6d.chunk.css.map": "/public/static/css/main.ab43bc6d.chunk.css.map",
+    "static/js/2.1ea04e1f.chunk.js.LICENSE.txt": "/public/static/js/2.1ea04e1f.chunk.js.LICENSE.txt",
+    "static/media/Họ Yêu Ai Mất Rồi (Orinn Remix) - Doãn Hiếu  Nhạc Trẻ Edm Hot Tik Tok Gây Nghiện Hay Nhất 2021.a5f2eb47.mp3": "/public/static/media/Họ Yêu Ai Mất Rồi (Orinn Remix) - Doãn Hiếu  Nhạc Trẻ Edm Hot Tik Tok Gây Nghiện Hay Nhất 2021.a5f2eb47.mp3",
+    "static/media/If I Had You.8df58c68.m4a": "/public/static/media/If I Had You.8df58c68.m4a",
+    "static/media/Lady Gaga - Bad Romance (Official Music Video).28eef62f.mp3": "/public/static/media/Lady Gaga - Bad Romance (Official Music Video).28eef62f.mp3",
+    "static/media/Pitbull - Feel This Moment ft. Christina Aguilera.29a8c476.mp3": "/public/static/media/Pitbull - Feel This Moment ft. Christina Aguilera.29a8c476.mp3",
+    "static/media/Star Sky.c89ea624.mp3": "/public/static/media/Star Sky.c89ea624.mp3",
+    "static/media/[Vietsub] Criminal - Britney Spears.7f484c97.mp3": "/public/static/media/[Vietsub] Criminal - Britney Spears.7f484c97.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.d857fd7e.js",
-    "static/js/2.398eb54c.chunk.js",
+    "static/js/runtime-main.20b4965a.js",
+    "static/js/2.1ea04e1f.chunk.js",
     "static/css/main.ab43bc6d.chunk.css",
-    "static/js/main.7f01f8d6.chunk.js"
+    "static/js/main.01f35f1f.chunk.js"
   ]
 }
